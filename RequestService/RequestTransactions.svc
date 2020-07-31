@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="VB" Debug="true" Service="RequestService.RequestTransactions" CodeBehind="RequestTransactions.svc.vb" %>
